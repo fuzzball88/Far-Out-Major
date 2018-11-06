@@ -1,0 +1,14 @@
+TODO-list
+=========
+
+- kentän loppuun animaatio 
+
+tehdyt taskit:
+- animaatiot aloitukseen
+- aloitus kolmeen skeneen startista
+- kolme skeneä 
+- kameran sulavampi seuraaminen (Jaakko)
+- fuelin kuluminen (Jaakko)
+- random spawnaus välikohtiin (Jaakko)
+- StartMenu(Tero)
+- UI: pelin lopetus alkuvalikko, painike pelistä start-menuun 
